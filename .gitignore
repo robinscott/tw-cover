@@ -3,4 +3,4 @@ Old covers
 
 #Images
 *.eps
-*.tif
+#*.tif
